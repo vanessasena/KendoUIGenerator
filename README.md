@@ -1,6 +1,6 @@
 # VS Code Extension - kendoui-generator
 
-This is a VS Code Extension that generates getters and setters for typescript properties in classes that are part of Kendo UI MVVM framework.
+This is a VS Code Extension that generates getters and setters for typescript properties in classes using Kendo UI.
 
 ## Features
 
